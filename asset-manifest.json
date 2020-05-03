@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS_GeradorMemes/static/css/main.fcaa6ffd.chunk.css",
+    "main.js": "/ReactJS_GeradorMemes/static/js/main.96de7675.chunk.js",
+    "main.js.map": "/ReactJS_GeradorMemes/static/js/main.96de7675.chunk.js.map",
+    "runtime-main.js": "/ReactJS_GeradorMemes/static/js/runtime-main.acb97446.js",
+    "runtime-main.js.map": "/ReactJS_GeradorMemes/static/js/runtime-main.acb97446.js.map",
+    "static/js/2.b719016b.chunk.js": "/ReactJS_GeradorMemes/static/js/2.b719016b.chunk.js",
+    "static/js/2.b719016b.chunk.js.map": "/ReactJS_GeradorMemes/static/js/2.b719016b.chunk.js.map",
+    "index.html": "/ReactJS_GeradorMemes/index.html",
+    "precache-manifest.1e4b74eac89eb387cf062911a3b6f626.js": "/ReactJS_GeradorMemes/precache-manifest.1e4b74eac89eb387cf062911a3b6f626.js",
+    "service-worker.js": "/ReactJS_GeradorMemes/service-worker.js",
+    "static/css/main.fcaa6ffd.chunk.css.map": "/ReactJS_GeradorMemes/static/css/main.fcaa6ffd.chunk.css.map",
+    "static/js/2.b719016b.chunk.js.LICENSE.txt": "/ReactJS_GeradorMemes/static/js/2.b719016b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb97446.js",
+    "static/js/2.b719016b.chunk.js",
+    "static/css/main.fcaa6ffd.chunk.css",
+    "static/js/main.96de7675.chunk.js"
+  ]
+}
